@@ -1,0 +1,11 @@
+button {
+  list-style: none;
+  border-radius: 50%;
+}
+.btnContainer {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  margin-left: 180px;
+  gap: 15px;
+}

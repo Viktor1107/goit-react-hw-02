@@ -1,0 +1,14 @@
+.img {
+}
+.Wrap {
+  position: absolute;
+  width: 100%;
+  height: 75%;
+  transform: translateY(-75%);
+  transform: translateX(-100);
+}
+
+h4 {
+  font-size: xx-large;
+  color: crimson;
+}

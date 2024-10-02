@@ -1,0 +1,14 @@
+ul {
+  list-style: none;
+}
+li {
+  font-size: xx-large;
+  font-weight: bold;
+  color: #c6f421da;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  padding-bottom: 25px;
+}
